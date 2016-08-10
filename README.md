@@ -1,4 +1,4 @@
-# ANRecognitionSystem  jiangyunwei
+# ANRecognitionSystem  jiangyunwei222
 ###accepted criteria
   - single digit:			90%                    
   - single alphabet:  75%                     
